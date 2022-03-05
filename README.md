@@ -1,7 +1,7 @@
 # Formik-Assignment
 Assignment for MITxPro Full Stack Developer program
 
-Assignmente requirements as follows:
+The assignment requirements are as follows:
 
 Your form should include the following:
 
